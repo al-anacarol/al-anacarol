@@ -1,0 +1,107 @@
+body, .card {
+	font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	background: linear-gradient(#cdebbd, #fff);
+}
+
+.titulo-sn {
+	text-align: center;
+	font-size: 2em; /*24px*/
+	margin-bottom: 20px; 
+	clear: left;
+	/*font-weight: bold;*/
+	padding-top: 10px;
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2em; /*24px*/
+	margin-bottom: 20px; 
+	clear: left;
+	/*font-weight: bold;*/
+	padding-top: 40px;
+}
+
+.vegan {
+	width: 200px;
+	float: left;
+	margin: 0px 10px 10px 0; /*cima-direita-baixo-esquerda*/
+	padding: 10px;
+	height: 200px;
+}
+
+.principal {
+	border: 2px solid;
+	border-color: green;
+	border-radius: 5px;
+	margin-top: 20px;
+	background: #fff;
+}
+
+.principal {
+	padding: 3em 0;
+	width: 100%;
+}
+
+.principal p {
+	/*margin: 0 0 1em;*/
+	padding: 5px;
+	text-align: center;
+}
+
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2em; /*24px*/
+	margin-bottom: 20px; 
+	clear: left;
+	/*font-weight: bold;*/
+	padding-top: 40px;
+}
+
+.beneficios {
+	padding: 10px 0;
+}
+
+.conteudos-beneficios {
+	width: 640px;
+	margin: 0 0 0 150px;
+}
+
+.imagem-beneficios {
+	width: 60%;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+.lista-beneficios {
+	width: 40%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.itens {
+	line-height: 1.5;
+}
+
+.itens:first-child {
+	font-weight: bold;
+}
+
+.itens:before {
+	content: "🍀";
+}
+
+.imagem-beneficios {
+	width: 60%;
+	opacity: 1;
+	transition: 400ms;
+	box-shadow: 10px 10px 10px #000000;
+}
+
+.imagem-beneficios:hover {
+	opacity: 0.3;
+}
+
