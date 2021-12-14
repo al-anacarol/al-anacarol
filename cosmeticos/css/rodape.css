@@ -1,0 +1,23 @@
+.rodape{     
+    width: 100% !important; 
+    text-align: center;   
+    height: 100px;
+    color: white;
+    padding: 2px, 0;
+    background: #75914b;
+}
+
+.rodape p {
+    text-align: center;
+    color: #000000;
+}
+
+.ifm-rodape {
+    padding-top: 10px;
+}
+
+small {
+    text-decoration: none;
+    color: #000000;
+}
+
