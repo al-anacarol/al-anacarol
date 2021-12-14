@@ -1,0 +1,19 @@
+.mapa {
+	padding: 3em 0;
+	/*background: linear-gradient(#CD853F, #FFDEAD);*/
+	margin-left: 30px;
+}
+
+.mapa-conteudo {
+	width: 940px;
+	/*margin: 0 auto;*/
+}
+
+iframe {
+	width: 900px;
+}
+
+.mapa p {
+	margin:  0 0 2em;
+	text-align: center;
+}
